@@ -18,6 +18,8 @@
 接著藉由composer 來下載php mailer套件
 
 
+<https://github.com/PHPMailer/PHPMailer>
+
 ```
 composer require phpmailer/phpmailer
 ```
