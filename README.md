@@ -21,3 +21,9 @@
 ```
 composer require phpmailer/phpmailer
 ```
+
+### composer jason file會顯示你在該file 所載入的套件
+<img width="470" alt="截圖 2021-11-15 上午10 22 54" src="https://user-images.githubusercontent.com/58775086/141712453-ac90eefd-48f1-4942-881a-509af8a63580.png">
+
+
+
