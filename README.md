@@ -16,6 +16,8 @@
 
 
 接著藉由composer 來下載php mailer套件
-、、、
+
+
+```
 composer require phpmailer/phpmailer
-、、、
+```
